@@ -27,10 +27,10 @@ Welcome to our solution repository for the O'Reilly Fall 2022 Architectural Kata
 * [Hey Blue Background and Problem Statement](./ProblemAnalysis/Background.md)
 [Reference](https://github.com/TheMarmots/ArchKatas2022/blob/main/ProblemAnalysis/Background.md)
 
-* [Business Drivers and Goals](./ProblemAnalysis/DriversGoals.md)
+* [Business Drivers and Goals:](./ProblemAnalysis/DriversGoals.md)
 [Reference1](https://github.com/TheMarmots/ArchKatas2022/blob/main/ProblemAnalysis/DriversGoals.md) and [Reference2](https://github.com/tekiegirl/Archangels/blob/main/1.ProblemBackground/BusinessGoalsDriversAndRequirements.md)
 
-* [Business Requirements](./ProblemAnalysis/BusinessReqs.md)
+* [Business Requirements:](./ProblemAnalysis/BusinessReqs.md)
 [Reference1](https://github.com/TheMarmots/ArchKatas2022/blob/main/ProblemAnalysis/BusinessReqs.md) and [Reference2](https://github.com/tekiegirl/Archangels/blob/main/1.ProblemBackground/BusinessGoalsDriversAndRequirements.md)
 
 [Hey Blue Problem Statement and Requirements](https://docs.google.com/document/d/10o-4eEzFo005pqDt_ORCztzaQCQ_9FNWYrxFasou3Eo/edit)
