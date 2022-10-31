@@ -31,7 +31,7 @@ Welcome to our solution repository for the O'Reilly Fall 2022 Architectural Kata
 [Reference1](https://github.com/TheMarmots/ArchKatas2022/blob/main/ProblemAnalysis/DriversGoals.md) and [Reference2](https://github.com/tekiegirl/Archangels/blob/main/1.ProblemBackground/BusinessGoalsDriversAndRequirements.md)
 
 * [Business Requirements](./ProblemAnalysis/BusinessReqs.md)
-[Reference1](https://github.com/TheMarmots/ArchKatas2022/blob/main/ProblemAnalysis/BusinessReqs.md](here) and [Reference2](https://github.com/tekiegirl/Archangels/blob/main/1.ProblemBackground/BusinessGoalsDriversAndRequirements.md)
+[Reference1](https://github.com/TheMarmots/ArchKatas2022/blob/main/ProblemAnalysis/BusinessReqs.md) and [Reference2](https://github.com/tekiegirl/Archangels/blob/main/1.ProblemBackground/BusinessGoalsDriversAndRequirements.md)
 
 [Hey Blue Problem Statement and Requirements](https://docs.google.com/document/d/10o-4eEzFo005pqDt_ORCztzaQCQ_9FNWYrxFasou3Eo/edit)
 
@@ -41,16 +41,16 @@ Welcome to our solution repository for the O'Reilly Fall 2022 Architectural Kata
 
 ## Architecture
 
-* [Actors, Actions, and Significant Scenarios](./Solution/Actors,%20Actions%20&%20Significant%20Scenarios.md)
+* [Actors, Actions, and Significant Scenarios:](./Solution/Actors,%20Actions%20&%20Significant%20Scenarios.md)
 [Reference1](https://github.com/TheMarmots/ArchKatas2022/blob/main/Actors,%20Actions%20&%20Significant%20Scenarios.md) and [Reference2](https://github.com/tekiegirl/Archangels/blob/main/2.SolutionBackground/Conceptual.md)
 
-* [Architecture Analysis](./Solution/ArchAnalysis.md)
+* [Architecture Analysis:](./Solution/ArchAnalysis.md)
 [Reference1](https://github.com/TheMarmots/ArchKatas2022/blob/main/Solution/ArchAnalysis.md) and [Reference2](https://github.com/tekiegirl/Archangels/blob/main/2.SolutionBackground/ArchitecturePatterns.md)
 
-* [High-level Architecture](./Solution/GeneralArchitecture.md)
+* [High-level Architecture:](./Solution/GeneralArchitecture.md)
 [Reference1](https://github.com/TheMarmots/ArchKatas2022/blob/main/GeneralArchitecture.md) and [Reference2](https://github.com/TheJedis2020/arch_katas_2020/blob/main/GeneralArchitecture.md)
 
-* [Detailed Architecture](./Solution/DetailedArch.md)
+* [Detailed Architecture:](./Solution/DetailedArch.md)
 [Reference1](https://github.com/TheMarmots/ArchKatas2022/blob/main/Solution/DetailedArch.md) and [Reference2](https://github.com/TheJedis2020/arch_katas_2020/tree/main/Key%20Capabilities)
 
 * [Security](./Solution/Security.md)
