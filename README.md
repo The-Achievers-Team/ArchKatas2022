@@ -24,7 +24,7 @@ Welcome to our solution repository for the O'Reilly Fall 2022 Architectural Kata
 
 ## Problem Analysis
 
-* [Hey Blue Background and Problem Statement](./ProblemAnalysis/Background.md)
+* [Background and Problem Statement](./ProblemAnalysis/Background.md)
 	* [Reference](https://github.com/TheMarmots/ArchKatas2022/blob/main/ProblemAnalysis/Background.md)
 
 * [Business Drivers, Goals and Requirements](./ProblemAnalysis/Drivers_Goals_Requirements.md)
