@@ -8,9 +8,9 @@
 
 * [Previous finalists](https://github.com/tekiegirl/SoftwareArchitectureResources/blob/main/Resources/OReillyKata.md)
 
- - https://github.com/TheMarmots/ArchKatas2022
- - https://github.com/tekiegirl/Archangels
- - https://github.com/TheJedis2020/arch_katas_2020
+	* https://github.com/TheMarmots/ArchKatas2022
+	* https://github.com/tekiegirl/Archangels
+	* https://github.com/TheJedis2020/arch_katas_2020
 
 * [Fundamentals of Software Architecture](http://fundamentalsofsoftwarearchitecture.com/katas/)
 
