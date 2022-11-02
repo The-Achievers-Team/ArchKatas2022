@@ -9,13 +9,13 @@ The following section contains the key non-functional properties of the architec
 
 Number of users which might want to use the HeyBlue App in the Unites States:
 
-Police Officers: 6,60,288 (source: https://www.statista.com/statistics/191694/number-of-law-enforcement-officers-in-the-us/)
+Police Officers: 6,60,288 ([source](https://www.statista.com/statistics/191694/number-of-law-enforcement-officers-in-the-us/))
 
 Civilians: 332 million (source: )
 
-Charities: 1.5 million (source: https://www.nptrust.org/philanthropic-resources/charitable-giving-statistics/#:~:text=According%20to%20the%20most%20recent,organizations%20in%20the%20United%20States.)
+Charities: 1.5 million ([source](https://www.nptrust.org/philanthropic-resources/charitable-giving-statistics/#:~:text=According%20to%20the%20most%20recent,organizations%20in%20the%20United%20States.))
 
-Online Retail Stores: 1.8 million (source: https://www.nptrust.org/philanthropic-resources/charitable-giving-statistics/#:~:text=According%20to%20the%20most%20recent,organizations%20in%20the%20United%20States.)
+Online Retail Stores: 1.8 million ([source](https://www.nptrust.org/philanthropic-resources/charitable-giving-statistics/#:~:text=According%20to%20the%20most%20recent,organizations%20in%20the%20United%20States.))
 
 If police officers across the United States simply connected with 5 community members per day, the result would be 1.2 BILLION connections in a year.
 
