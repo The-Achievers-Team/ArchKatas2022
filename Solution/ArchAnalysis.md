@@ -11,7 +11,7 @@ Number of users which might want to use the HeyBlue App in the Unites States:
 
 Police Officers: 6,60,288 ([source](https://www.statista.com/statistics/191694/number-of-law-enforcement-officers-in-the-us/))
 
-Civilians: 332 million (source: )
+Civilians: 332 million
 
 Charities: 1.5 million ([source](https://www.nptrust.org/philanthropic-resources/charitable-giving-statistics/#:~:text=According%20to%20the%20most%20recent,organizations%20in%20the%20United%20States.))
 
