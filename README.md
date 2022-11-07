@@ -33,7 +33,6 @@ Welcome to our solution repository for the O'Reilly Fall 2022 Architectural Kata
 * [Constraints & Assumptions](./ProblemAnalysis/Constraints_Assumptions.md)
 	* [Reference](https://github.com/tekiegirl/Archangels/blob/main/1.ProblemBackground/ConstraintsAndAssumptions.md)
 
-[Hey Blue Problem official statement and requirements](https://docs.google.com/document/d/10o-4eEzFo005pqDt_ORCztzaQCQ_9FNWYrxFasou3Eo/edit)
 
 ## Strategy
 
@@ -47,7 +46,7 @@ Welcome to our solution repository for the O'Reilly Fall 2022 Architectural Kata
 * [Architecture Analysis](./Solution/ArchAnalysis.md)
 	* [Reference1](https://github.com/TheMarmots/ArchKatas2022/blob/main/Solution/ArchAnalysis.md) and [Reference2](https://github.com/tekiegirl/Archangels/blob/main/2.SolutionBackground/ArchitecturePatterns.md)
 
-* [High-level Architecture](./Solution/GeneralArchitecture.md)
+* [High-level Architecture](./Solution/High_Level_Architecture.md)
 	* [Reference1](https://github.com/TheMarmots/ArchKatas2022/blob/main/GeneralArchitecture.md) and [Reference2](https://github.com/TheJedis2020/arch_katas_2020/blob/main/GeneralArchitecture.md)
 
 * [Detailed Architecture](./Solution/DetailedArch.md)
@@ -62,7 +61,7 @@ Welcome to our solution repository for the O'Reilly Fall 2022 Architectural Kata
 * [UI Workflows](./Solution/ExampleMocks.md)
 	* [Reference](https://github.com/TheMarmots/ArchKatas2022/blob/main/ExampleMocks.md)
 
-[Architectural Decision Records (ADRs)](./ADRs)
+* [Architectural Decision Records (ADRs)](./ADRs)
 
 ## Future Roadmap
 
