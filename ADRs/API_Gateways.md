@@ -2,7 +2,7 @@ Decision: We will use API gateways in our application for routing requests to ba
 
 Pros:
 
-1. Security: Since API gateways sit between your front end applications and the microservices, it will act as a security barrier making sure your sensitive API Endpoints are not exposed. APi gateways provide important functionality such as rate-limiting, authentication and access-control, scaling. It will protect our backend APIs from malicious attack vectors such as DoS attacks, SQL injections, and other several other similar attacks that may take advantage of our backend API’s vulnerabilities.
+1. Security: Since API gateways sit between your front end applications and the microservices, it will act as a security barrier making sure your sensitive API Endpoints are not exposed. API gateways provide important functionality such as rate-limiting, authentication and access-control, scaling. They will protect our backend APIs from malicious attack vectors such as DoS attacks, SQL injections, and other several other similar attacks that may take advantage of our backend API’s vulnerabilities.
 
 2. Decreased Microservices Complexity: Since the API gateways can manage important features mentioned above, our applications backend microservices do not have to implement all these features individually, and can focus on impleneting the business functionality.
 

@@ -1,4 +1,4 @@
-Decision: Authentication + Registration microservice will implement role based access control mechanism, since we need to support multiple types of users: civilians, police-officers, charities, retail-stores. The microservice will generate session tokens for each user, include and the role information in the session tokens (it will fetch the role information from authentication database), and grant access to backend microservices based off of the information contained in the session token.
+Decision: Authentication + Registration microservice will implement role based access control mechanism, since we need to support multiple types of users: civilians, police-officers, charities, retail-stores. The microservice will generate session tokens for each user, include and the role information in the session tokens (it will fetch the role information from authentication database), and grant access to backend microservices and APIs based off of the information contained in the session token.
 
 Pros:
 
@@ -13,7 +13,7 @@ Cons:
 
 1. Complexity: Maintaining multiple roles may result in increased complexity.
 
-2. Stale policies: Access control policies will need to be kept upto date, everytime we add/delete a microservice from the backend (which won't be that often).
+2. Stale policies: Access control policies will need to be kept upto date, everytime we add/delete a microservice/API from the backend (which won't be that often).
 
 
 Justification: Access control based on roles is an absolutely essential security feature for our application since we need to support multiple types of users as mentioned above.
