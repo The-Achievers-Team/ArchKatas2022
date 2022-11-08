@@ -12,7 +12,7 @@ Welcome to our solution repository for the O'Reilly Fall 2022 Architectural Kata
 
 * [Business Drivers, Goals and Requirements](./ProblemAnalysis/Drivers_Goals_Requirements.md)
 
-* [Assumptions](./ProblemAnalysis/Assumptions.md)
+* [Assumptions](./Solution/Assumptions.md)
 
 
 ## Architecture
