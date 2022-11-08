@@ -3,7 +3,7 @@
 
 We have created a use case diagram that give a summarize version on all the actors assciated in this app and all the actions they will perform.
 
-![UsecaseDiagram](../assets/use_case.jpg)
+![UsecaseDiagram](../assets/use_cases.jpg)
 
 ## Important workflows
 
