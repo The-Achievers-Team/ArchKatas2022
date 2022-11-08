@@ -82,7 +82,7 @@ need diagram
 
 ### Create Store front
 
-### Business, Charity, and Municipal
+#### Business, Charity, and Municipal
 This flow is part of Create Profile - Charity, Business, and Municipal
 
 ### Enable Location
