@@ -43,7 +43,12 @@ This section will expand on the use case diagram and will explore each individua
 ![UsecaseDiagram](../assets/upload_rewards_program.png)
 
 #### Business upload Rewards
-add diagram
+
+#### Business
+![UsecaseDiagram](../assets/bussiness_rewards.jpg)
+
+#### Civilian
+![UsecaseDiagram](../assets/upload_rewards_program.png)
 
 ### Transfer Points (Donote)
 
@@ -51,7 +56,9 @@ add diagram
 ![UsecaseDiagram](../assets/transfer_point_donate.png)
 
 ### Redeem Points
-need diagram
+
+#### Civilian
+![UsecaseDiagram](../assets/redeem_points.jpg)
 
 ### Upload Events
 
