@@ -37,9 +37,6 @@ This section will expand on the use case diagram and will explore each individua
 #### Civilian and Officer
 ![UsecaseDiagram](../assets/post_connection_social_media.png)
 
-### Civilian and Police Receive Points
-add diagram
-
 ### Upload Rewards Program 
 
 #### Civilian
