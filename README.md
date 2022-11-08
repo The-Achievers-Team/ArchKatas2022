@@ -23,7 +23,7 @@ Welcome to our solution repository for the O'Reilly Fall 2022 Architectural Kata
 
 * [High-level Architecture](./Solution/High_Level_Architecture.md)
 
-* [Detailed Architecture](./Solution/services.md)
+* [Detailed Architecture](./Solution/services)
 
 * [Security](./Solution/Security.md)
 
