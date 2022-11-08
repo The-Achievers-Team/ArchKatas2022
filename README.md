@@ -40,7 +40,7 @@ Welcome to our solution repository for the O'Reilly Fall 2022 Architectural Kata
 
 ## Architecture
 
-* [Actors, Actions, and Significant Scenarios](./Solution/Actors,%20Actions%20&%20Significant%20Scenarios.md)
+* [Actors, Actions, and Significant Scenarios](./Solution/use_cases_actors.md)
 	* [Reference1](https://github.com/TheMarmots/ArchKatas2022/blob/main/Actors,%20Actions%20&%20Significant%20Scenarios.md) and [Reference2](https://github.com/tekiegirl/Archangels/blob/main/1.ProblemBackground/ActorsActionsAndSignificantScenarios.md)
 
 * [Architecture Analysis](./Solution/ArchAnalysis.md)
