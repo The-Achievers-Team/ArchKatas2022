@@ -28,11 +28,7 @@ This section will expand on the use case diagram and will explore each individua
 #### Civilian
 ![UsecaseDiagram](../assets/allow_notification_civilian.png)
 
-### Connect with (Polica/Charity)
-
-#### Officer
-![UsecaseDiagram](../assets/connect_with_charity.png)
-
+### Connect
 #### Civilian
 ![UsecaseDiagram](../assets/connect_with_officer_civilian.png)
 
