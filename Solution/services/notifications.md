@@ -6,10 +6,10 @@
 
 ## Description
 
-Notification Service is responsible for charity's metadata, storefront creation to enable points for donation from users to charities. It also interacts with "Analytics" service and uses "charity db" to store information about charities.
+Notification Service is responsible for managing notifications based on user's location and settings. It uses "notification db" to store information police-officers location.
 
 ## Use Cases
 
-1. Storing charity data 
-2. Enable users to donate points to charities
-3. Create charity events (storefront) 
+1. Location tracking 
+2. Push notifications to users
+3. Enable/Disable location tracking for police-officers 
