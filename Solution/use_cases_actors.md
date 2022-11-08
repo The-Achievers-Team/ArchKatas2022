@@ -42,13 +42,8 @@ This section will expand on the use case diagram and will explore each individua
 #### Civilian
 ![UsecaseDiagram](../assets/upload_rewards_program.png)
 
-#### Business upload Rewards
-
 #### Business
 ![UsecaseDiagram](../assets/bussiness_rewards.jpg)
-
-#### Civilian
-![UsecaseDiagram](../assets/upload_rewards_program.png)
 
 ### Transfer Points (Donote)
 
