@@ -1,12 +1,12 @@
-Decision: The default setting of geo-location enabled will be set when push notifications are opted-in for. 
+Decision: The default setting of geo-location functionality will be disabled.
 
 Pros:
 
-1. Improves user experience for the users by simplifying the connectivity process. 
-2. Reduces application complexity by consolidating it into one flow when push notifications are opted-in for. 
+1. Security: Ensures proper security and safety for police officers and civilians. 
 
 Cons:
 
-1. Default setting could be seen as invasive. 
+1. User Experience: Will be more complex user experience to enable geo-location. 
+2. Architecture: Additional step in the flow to prompt user to enable geo-location
 
-Justification: We feel that the benefits of this default behavior will improve the goal of the application of connecting police officers to civilians. The cons will be outweighed by the ability for the user to opt-out of the default setting. 
+Justification: We feel that the benefits of this default behavior will improve the security of users using the Hey Blue Application. 
