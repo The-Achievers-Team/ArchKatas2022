@@ -7,7 +7,7 @@ We have created a use case diagram that give a summarize version on all the acto
 
 ## Important workflows
 
-This section will expnad on the use case diagram and will explore each individual action by the actor(s).
+This section will expand on the use case diagram and will explore each individual actions by the actor(s).
 
 ### Create Profile
 
