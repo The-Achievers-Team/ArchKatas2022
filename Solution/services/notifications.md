@@ -1,3 +1,3 @@
 # Notification Service
 
-![Notification Service](../assets/notification_services.jpg)
+![Notification Service](../assets/../notification_services.jpg)

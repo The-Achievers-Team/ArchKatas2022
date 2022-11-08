@@ -1,3 +1,3 @@
 # Authentication & Registration
 
-![Authentication & Registration](../assets/auth_registration_service.jpg)
+![Authentication & Registration](../../assets/auth_registration_service.jpg)
