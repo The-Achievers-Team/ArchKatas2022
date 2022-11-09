@@ -29,9 +29,8 @@ Welcome to our solution repository for the O'Reilly Fall 2022 Architectural Kata
 
 * [Deployment](./Solution/Deployment.md)
 
-* [UI Workflows](./Solution/ExampleMocks.md)
-
 * [Architectural Decision Records (ADRs)](./ADRs)
+
 
 
 
