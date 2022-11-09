@@ -45,7 +45,7 @@ This section will expand on the use case diagram and will explore each individua
 #### Business
 ![UsecaseDiagram](../assets/bussiness_rewards.jpg)
 
-### Transfer Points (Donote)
+### Transfer Points (Donate)
 
 #### Officer
 ![UsecaseDiagram](../assets/transfer_point_donate.png)
