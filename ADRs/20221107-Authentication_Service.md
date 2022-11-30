@@ -1,5 +1,7 @@
 Decision: We will create a separate microservice for authentication and authorization, instead of using API gateway for authentication/authorization.
 
+Decision Date: November 7th, 2022
+
 Pros:
 
 1. Consistency: Since we are using different API gateways for browser and mobile users, abstracting authentication/authorization in a different microservice will improve consistency for authentication/authorization functionality, and reduce chance of mis-configurations/errors in implementation.
