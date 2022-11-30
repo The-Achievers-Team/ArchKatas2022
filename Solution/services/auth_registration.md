@@ -2,7 +2,7 @@
 
 ## Diagram
 
-![Authentication & Registration](../../assets/auth_registration_service.jpg)
+![Authentication & Registration](../../assets/auth_regis_service_update.jpg)
 
 ## Description
 
@@ -12,4 +12,3 @@ Authentication & Registration Service is responsible for authenticating users, a
 
 1. User Profile Creation
 2. User Authentication
-
