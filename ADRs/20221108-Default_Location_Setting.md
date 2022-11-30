@@ -1,5 +1,7 @@
 Decision: The default setting of geo-location functionality will be disabled.
 
+Decision Date: November 8th, 2022
+
 Pros:
 
 1. Security: Ensures proper security and safety for police officers and civilians. 
