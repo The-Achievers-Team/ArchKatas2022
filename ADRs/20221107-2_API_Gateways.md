@@ -1,4 +1,5 @@
 Decision: Use 2 API gateways, one for each of browser users and mobile users.
+
 Decision Date: November 7th, 2022
 
 Pros:
