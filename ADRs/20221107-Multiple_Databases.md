@@ -1,5 +1,7 @@
 Decision: Use separate database(s) per microservice.
 
+Decision Date: November 7th, 2022
+
 Pros:
 
 1. Standard Apporoach for microservices : By definition, microservices should be loosely coupled, scalable, and independent in terms of development and deployment. Therefore, the database per service is a preferred approach as it perfectly meets those requirements.
