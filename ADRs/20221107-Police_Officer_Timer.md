@@ -1,4 +1,5 @@
 Decision: Police officer timer will be refreshed with a new 15 minutes when they log back into the application. 
+
 Decision Date: November 7th, 2022
 
 Pros:
