@@ -1,5 +1,7 @@
 Decision: We will use the microservices architecture for developing our application.
 
+Decision Date: November 7th, 2022
+
 Pros:
 
 1. Scalability: Since each microservice runs independently, it is easier to add, remove, update or scale each microservice. Developers can perform these tasks without disrupting any other microservice in the system.
