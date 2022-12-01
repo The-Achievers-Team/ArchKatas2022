@@ -51,4 +51,4 @@ Using the analysis of the key non-functional properties above and with the help 
 
 As shown in the table, Microservices, Service-based and event-based architectures were the most suitable candidates. We selected Microservices to be the architectural style for this application, since it satisfied all the three key non-functional properties will highest ratings.
 
-The detailed choice of Microservices architecture is documented in [ADR: MICROARCH](./../ADRs/MICROARCH.md).
+The detailed choice of Microservices architecture is documented in [ADR: MICROARCH](../ADRs/20221107-Microservices_Architecture.md).
