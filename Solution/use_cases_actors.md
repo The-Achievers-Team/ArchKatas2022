@@ -9,6 +9,12 @@ We have created a use case diagram that give a summarize version on all the acto
 
 This section will expand on the use case diagram and will explore each individual actions by the actor(s).
 
+### Legend
+
+This legend defines all the symbols that are used throughout our diagrams. Each diagram has it's own legend, but this serves are a quick reference of all symbols used.
+
+![LegendDiagram](../assets/legend.png)
+
 ### Create Profile
 
 #### Officer
