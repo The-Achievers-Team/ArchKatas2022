@@ -1,6 +1,8 @@
 
 # High Level Architecture
 
+![LegendDiagram](../assets/legend2.png)
+
 ![High Level Architecture](../assets/high_level_diagram.png)
 
 The high level architecture incorporates the key characteristics mentioned in architecture analysis:
